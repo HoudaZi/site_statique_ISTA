@@ -1,0 +1,861 @@
+    body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+    footer {
+        margin-top: 20px;
+    }
+    footer h5 {
+        color: #007bff;
+        font-weight: bold;
+    }
+    footer a {
+        text-decoration: none;
+        color: #373737;
+    }
+    footer a:hover {
+        color: #007bff;
+    }
+    footer .bg-primary {
+        background-color: #007bff !important;
+    }
+    .fa-instagram{
+        color: rgb(209, 61, 187);
+    }
+    .rounded-circle{
+        margin-left: 120px;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+        
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }
+        body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }
+       body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+       
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }
+          .ins {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 40px;
+      }
+
+      .login {
+        background-color: white;
+        padding: 20px 30px;
+        border-radius: 8px;
+        box-shadow: 5px 10px 8px 10px #eef6f4;
+        text-align: center;
+        height: 800px;
+        width: 500px;
+      }
+
+      h2 {
+        margin-bottom: 20px;
+        color: #333;
+        border-bottom: 1px rgb(10, 9, 10) solid;
+      }
+
+      .form {
+        display: flex;
+        flex-direction: column;
+      }
+
+      label {
+        text-align: left;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+
+      .input {
+        margin-bottom: 15px;
+        padding: 10px;
+        border: 2px solid #064f2e;
+        border-radius: 20px;
+        height: 40px;
+      }
+
+      .password {
+        text-align: right;
+        margin-bottom: 20px;
+        color: #3e6461;
+        text-decoration: none;
+        font-size: 0.9em;
+      }
+
+      .password:hover {
+        text-decoration: underline;
+      }
+
+      .button {
+        background-color: #0abe97;
+        color: white;
+        padding: 10px;
+        border: none;
+        width: 150px;
+        border-radius: 15px;
+        cursor: pointer;
+        font-size: 1em;
+        margin-right: auto;
+        margin-left: auto;
+      }
+
+      .button:hover {
+        background-color: #218838;
+      }
+
+      .new-visitor {
+        margin-top: 20px;
+        font-size: 0.9em;
+        color: #555;
+      }
+
+      .new-visitor a {
+        color: #007bff;
+        text-decoration: none;
+      }
+
+      .new-visitor a:hover {
+        text-decoration: underline;
+      }
+      body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }
+       body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+    /* Footer styles */
+    footer {
+        margin-top: 20px;
+    }
+    footer h5 {
+        color: #007bff;
+        font-weight: bold;
+    }
+    footer a {
+        text-decoration: none;
+        color: #333;
+    }
+    footer a:hover {
+        color: #007bff;
+    }
+    footer .bg-primary {
+        background-color: #007bff !important;
+    }
+    .fa-instagram{
+        color: rgb(209, 61, 187);
+    }
+    .rounded-circle{
+        margin-left: 120px;
+    }
+         body {
+        font-family: 'Arial', sans-serif;
+        overflow-x: hidden;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+    footer {
+        margin-top: 20px;
+    }
+    footer h5 {
+        color: #007bff;
+        font-weight: bold;
+    }
+    footer a {
+        text-decoration: none;
+        color: #333;
+    }
+    footer a:hover {
+        color: #007bff;
+    }
+    footer .bg-primary {
+        background-color: #007bff !important;
+    }
+    .fa-instagram{
+        color: rgb(209, 61, 187);
+    }
+    .rounded-circle{
+        margin-left: 120px;
+    }
+        body {
+
+        font-family: 'Arial', sans-serif;
+
+    }
+
+    .navbar-brand img {
+
+        border-radius: 50%;
+
+    }
+
+    .navbar .nav-link {
+
+        font-size: 16px;
+
+        font-weight: 500;
+
+        color: #333;
+
+    }
+
+    .navbar .nav-link.active,
+
+    .navbar .nav-link:hover {
+
+        color: #007bff;
+
+    }
+
+    .btn-outline-primary {
+
+        border-color: #007bff;
+
+        color: #007bff;
+
+    }
+
+    .btn-outline-primary:hover {
+
+        background-color: #007bff;
+
+        color: #fff;
+
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1{
+        color: #007bff;
+    }
+    footer {
+        margin-top: 20px;
+    }
+    footer h5 {
+        color: #007bff;
+        font-weight: bold;
+    }
+    footer a {
+        text-decoration: none;
+        color: #333;
+    }
+    footer a:hover {
+        color: #007bff;
+    }
+    footer .bg-primary {
+        background-color: #007bff !important;
+    }
+    .fa-instagram{
+        color: rgb(209, 61, 187);
+    }
+    .rounded-circle{
+        margin-left: 120px;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }
+        body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+    footer {
+        margin-top: 20px;
+    }
+    footer h5 {
+        color: #007bff;
+        font-weight: bold;
+    }
+    footer a {
+        text-decoration: none;
+        color: #333;
+    }
+    footer a:hover {
+        color: #007bff;
+    }
+    footer .bg-primary {
+        background-color: #007bff !important;
+    }
+    .fa-instagram{
+        color: rgb(209, 61, 187);
+    }
+    .rounded-circle{
+        margin-left: 120px;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }
+       body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+    /* Footer styles */
+    footer {
+        margin-top: 20px;
+    }
+    footer h5 {
+        color: #007bff;
+        font-weight: bold;
+    }
+    footer a {
+        text-decoration: none;
+        color: #333;
+    }
+    footer a:hover {
+        color: #007bff;
+    }
+    footer .bg-primary {
+        background-color: #007bff !important;
+    }
+    .fa-instagram{
+        color: rgb(209, 61, 187);
+    }
+    .rounded-circle{
+        margin-left: 120px;
+    }
+            .ins{
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+         align-items: center; 
+        height: 100vh; 
+        
+      } 
+
+      .login {
+        background-color: white;
+        padding: 20px 30px;
+        border-radius: 8px;
+        box-shadow: 5px 10px 8px 10px #eef6f4;
+        text-align: center;
+        height: 450px;
+        width: 350px;
+      }
+
+      h2 {
+        margin-bottom: 20px;
+        color: #333;
+        border-bottom: 1px rgb(10, 9, 10) solid;
+      }
+
+      .form {
+        display: flex;
+        flex-direction: column;
+      }
+
+      label {
+        text-align: left;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+
+      .input {
+        margin-bottom: 15px;
+        padding: 10px;
+        border: 2px solid #066215;
+        border-radius: 20px;
+        height: 40px;
+        
+      }
+
+      .password {
+        text-align: right;
+        margin-bottom: 20px;
+        color: #3e6461;
+        text-decoration: none;
+        font-size: 0.9em;
+      }
+
+      .password:hover {
+        text-decoration: underline;
+      } 
+
+      .button {
+        background-color: #0abe97;
+        color: white;
+        padding: 10px;
+        border: none;
+        width: 150px;
+        border-radius: 15px;
+        cursor: pointer;
+        font-size: 1em;
+        margin-right: auto;
+        margin-left: auto;
+      }
+      
+.button:hover {
+    background-color: #218838;
+}
+
+.new-visitor {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.new-visitor a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.new-visitor a:hover {
+    text-decoration: underline;
+} 
+body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+           .ins{
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+        height: 100vh; 
+        
+      } 
+      .login {
+        background-color: white;
+        padding: 20px 30px;
+        border-radius: 8px;
+        box-shadow: 5px 10px 8px 10px #eef6f4;
+        text-align: center;
+        height: 400px;
+        width: 350px;
+      }
+      h4 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-bottom: 20px;
+        color: #070271;
+        border-bottom: 1px rgb(10, 9, 10) solid;
+    }
+      .form {
+        display: flex;
+        flex-direction: column;
+    }
+      label {
+        text-align: left;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+    .input {
+        margin-bottom: 15px;
+        padding: 10px;
+        border: 2px solid #080242;
+        border-radius: 20px;
+        height: 40px;
+        
+    }
+    .password {
+        text-align: right;
+        margin-bottom: 20px;
+        color: #3e6461;
+        text-decoration: none;
+        font-size: 0.9em;
+    }
+
+    .password:hover {
+        text-decoration: underline;
+    } 
+    .button {
+        background-color: #0c8065;
+        color: rgb(255, 254, 254);
+        padding: 5px;
+        border: 3px solid #06027b;
+        width: 150px;
+        border-radius: 15px;
+        cursor: pointer;
+        font-size: 1em;
+        margin-right: auto;
+        margin-left: auto;
+        height: 40px;
+    }      
+    .button:hover {
+        background-color: #218838;
+    }
+    .new-visitor {
+        margin-top: 20px;
+        font-size: 0.9em;
+    } 
+    .new-visitor a {
+        color: #007bff;
+        text-decoration: none;
+    }
+    .new-visitor a:hover {
+        text-decoration: underline;
+    } 
+    body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }
+        body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    .card-title {
+        color: #007bff;
+        font-weight: bold;
+    }
+    .card:hover {
+        transform: scale(1.05);
+        transition: all 0.3s ease-in-out;
+    }

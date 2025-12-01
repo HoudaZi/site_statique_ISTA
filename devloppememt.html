@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Web Officiel de l'Établissement</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+   body {
+        font-family: 'Arial', sans-serif;
+    }
+    .navbar-brand img {
+        border-radius: 50%;
+    }
+    .navbar .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+    }
+    .navbar .nav-link.active,
+    .navbar .nav-link:hover {
+        color: #007bff;
+    }
+    .btn-outline-primary {
+        border-color: #007bff;
+        color: #007bff;
+    }
+    .btn-outline-primary:hover {
+        background-color: #007bff;
+        color: #fff;
+    }
+    h1 {
+        color: #007bff;
+    }
+    /* Footer styles */
+    footer {
+        margin-top: 20px;
+    }
+    footer h5 {
+        color: #007bff;
+        font-weight: bold;
+    }
+    footer a {
+        text-decoration: none;
+        color: #333;
+    }
+    footer a:hover {
+        color: #007bff;
+    }
+    footer .bg-primary {
+        background-color: #007bff !important;
+    }
+    .fa-instagram{
+        color: rgb(209, 61, 187);
+    }
+    .rounded-circle{
+        margin-left: 120px;
+    }
+</style>
+  </head>
+ <body > 
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light shadow">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="logo.jpg" alt="OFPPT Logo" width="70" class="me-2">
+                    <span class="fw-bold">OFPPT</span>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="index.html">Accueil</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="inscrire.html">M'inscrire</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="Formation.html" class="nav-link">Formations</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex ms-3" role="search">
+                        <input class="form-control me-2" type="search" placeholder="Recherche..." aria-label="Search">
+                        <button class="btn btn-outline-primary" type="submit">Recherche</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container d-flex justify-content-center my-5">
+        <div class="card  "style="width: 800px; height: 400px; ">
+            <div class="card-header d-flex justify-content-center">
+             <img src="dev.jpg" alt=""style="width: 700px; height: 200px;">
+            </div>
+            <div class="card-body ">
+                <p class="h3 text-primary" id="h5" >Développement Digital</p>
+                <p class="card-text h5">le développement digital, désigne l'ensemble des technologies et des solutions implémentées pour permettre à une entreprise de rester compétitive dans un monde de plus en plus numérique.Ce terme est également connu sous le terme de transformation digitale ou de transition numérique.</p>
+            </div>
+          </div>
+   </div>
+  <div class="container mt-5">
+    <!-- <h1 class="text-center mb-4">Développement Digital</h1> -->
+    <h2 class="mt-4">Modules généraux</h2>
+    <table class="table table-striped table-bordered">
+      <thead class="table-dark">
+        <tr>
+          <th>Code Module</th>
+          <th>Module</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>EGTS101</td>
+          <td>Arabe</td>
+        </tr>
+        <tr>
+          <td>EGTS102</td>
+          <td>Français</td>
+        </tr>
+        <tr>
+          <td>EGTS103</td>
+          <td>Anglais technique/Espagnole</td>
+        </tr>
+        <tr>
+          <td>EGTS104</td>
+          <td>Culture entrepreneuriale - Partie 1</td>
+        </tr>
+        <tr>
+          <td>EGTS105</td>
+          <td>Compétences comportementales et sociales</td>
+        </tr>
+        <tr>
+          <td>EGTS108</td>
+          <td>Entrepreneuriat - PIE 1</td>
+        </tr>
+        <tr>
+          <td>EGTS106</td>
+          <td>Culture et techniques avancées du numérique</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2 class="mt-4">1ère année</h2>
+    <table class="table table-striped table-bordered">
+      <thead class="table-dark">
+        <tr>
+          <th>Code Module</th>
+          <th>Module</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>M101</td>
+          <td>Se situer au regard du métier et de la démarche de formation</td>
+        </tr>
+        <tr>
+          <td>M102</td>
+          <td>Acquérir les bases de l'algorithmique</td>
+        </tr>
+        <tr>
+          <td>M103</td>
+          <td>Programmer en Orienté Objet</td>
+        </tr>
+        <tr>
+          <td>M104</td>
+          <td>Développer des sites web statiques</td>
+        </tr>
+        <tr>
+          <td>M105</td>
+          <td>Programmer en JavaScript</td>
+        </tr>
+        <tr>
+          <td>M106</td>
+          <td>Manipuler des bases de données</td>
+        </tr>
+        <tr>
+          <td>M107</td>
+          <td>Développer des sites web dynamiques</td>
+        </tr>
+        <tr>
+          <td>M108</td>
+          <td>S'initier à la sécurité des systèmes d'information</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="container mt-5">
+    <h2 class="mt-4">2ème année</h2>
+    <table class="table table-striped table-bordered">
+      <thead class="table-dark">
+        <tr>
+          <th>Code Module</th>
+          <th>Module</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>M201</td>
+          <td>Configurer des réseaux avancés</td>
+        </tr>
+        <tr>
+          <td>M202</td>
+          <td>Mettre en œuvre des solutions Cloud</td>
+        </tr>
+        <tr>
+          <td>M203</td>
+          <td>Déployer et administrer des bases de données</td>
+        </tr>
+        <tr>
+          <td>M204</td>
+          <td>Automatiser les tâches d'administration réseau</td>
+        </tr>
+        <tr>
+          <td>M205</td>
+          <td>Configurer et administrer les pare-feu</td>
+        </tr>
+        <tr>
+          <td>M206</td>
+          <td>Assurer la haute disponibilité des systèmes</td>
+        </tr>
+        <tr>
+          <td>M207</td>
+          <td>Évaluer la performance des systèmes et réseaux</td>
+        </tr>
+        <tr>
+          <td>M208</td>
+          <td>Superviser la sécurité des infrastructures</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <footer class="bg-light text-center text-lg-start mt-5 shadow ">
+    <div class="container p-4">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 mb-4">
+                <h5 class="text-uppercase">À propos de nous</h5>
+                <p>
+                    L'OFPPT est le leader national de la formation professionnelle, offrant une formation de qualité pour un avenir prometteur.
+                </p>
+                <img src="logo.jpg" alt="OFPPT Logo" width="70" class="rounded-circle">
+                <p  class="fw-bold">ISTA : Institut Spécialisé de Technologie Appliquée</p>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4">
+                <h5 class="text-uppercase">Liens utiles</h5>
+                <ul class="list-unstyled mb-0">
+                    <li><a href="index.html" class="text-dark">Accueil</a></li>
+                    <li><a href="inscrire.html" class="text-dark">M'inscrire</a></li>
+                    <li><a href="Formation.html" class="text-dark">Formation</a></li>
+                    <li><a href="contact.html" class="text-dark">Contact</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-4">
+                <h5 class="text-uppercase">Contact</h5>
+                <p>Email: contact@ofppt.ma</p>
+                <p>Téléphone: +212 5 22 55 66 77</p>
+                <i class="fa-brands fa-facebook text-primary fs-5"></i>
+                <i class="fa-brands fa-twitter text-primary fs-5"></i>
+                <i class="fa-brands fa-instagram  fs-5"></i>
+            </div>
+        </div>
+    </div>
+    <div class="text-center p-3 bg-primary text-white">
+        © 2025 OFPPT. 
+    </div>
+</footer>
+</body>
+</html>
